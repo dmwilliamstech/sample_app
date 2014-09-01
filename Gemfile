@@ -28,15 +28,15 @@ gem 'spring',        group: :development
 
 group :development do
 
-gem 'rspec-rails', '3.0.0'
+gem 'rspec-rails'
 
 end
 
 group :test do
 
-gem 'rspec', '3.0.0'
+gem 'rspec'
 
-gem 'webrat', '0.7.1'
+gem 'webrat'
 
 end
 # Use ActiveModel has_secure_password
